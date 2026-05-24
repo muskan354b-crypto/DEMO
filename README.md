@@ -1,7 +1,7 @@
 # Markdown
 # Hi there, I'm Nandini! 👋
 
-Incoming B.Tech Computer Science & Engineering (CSE Core) student at SRM University-AP. I have a strong background in computer science from high school and am passionate about 360-degree product creation—from backend infrastructure to clean code.
+Incoming(1st year) B.Tech Computer Science & Engineering (CSE Core) student at SRM University-AP. I have a strong background in computer science from high school and am passionate about 360-degree product creation—from backend infrastructure to clean code.
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, C++, C, HTML
